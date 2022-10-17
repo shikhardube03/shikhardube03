@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @shikhardube03
-- 👀 I’m interested in Machine Learning and Artificial Intelligence, Neurotechnology and Web 3.0
-- 🌱 I’m currently learning Statistics + Computer Science, and Cognitive Science at the University of Illinois Urbana Champiagn
-- 📫 How to reach me ...
+I'm a student at the University of Illinois pursing a Bachelors in Brain and Cognitive Science and Statistics + CS. I'm interesed in Computer Vision, ML in healthcare, neurotechnology, and Web 3.0. I have a determined work ethic, strong communication skills, and a passion for creating a positive impact using programming. I'm looking to develop my skills, learn, and grow from other professionals in the industry. Please feel free to reach out with any opportunities or questions!
 
 <!---
 shikhardube03/shikhardube03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
